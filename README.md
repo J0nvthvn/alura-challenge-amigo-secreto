@@ -41,11 +41,11 @@ Desarrollar una aplicación que permita a los usuarios ingresar nombres de amigo
 _Estas instrucciones te guiarán para obtener una copia local del proyecto para desarrollo y pruebas._
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/J0nvthvn/challenge-amigo-secreto_esp-main.git
+    git clone https://github.com/J0nvthvn/alura-challenge-amigo-secreto.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd challenge-amigo-secreto_esp-main
+    cd alura-challenge-amigo-secreto
     ```
 3. Abre el proyecto en un navegador:
     - Si tienes **Live Server** en VS Code, simplemente haz click en **"Go Live"**.
