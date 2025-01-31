@@ -16,6 +16,7 @@ function agregarAmigoALista() {
             limpiarCaja();
             listarAmigos();
             console.log(amigos);
+            resultado.innerHTML = "";
         }
     }
 }
