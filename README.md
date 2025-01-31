@@ -9,9 +9,11 @@
   - [Acceso al proyecto](#acceso-al-proyecto)
   - [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
   - [🚀 Objetivo del challenge](#-objetivo-del-challenge)
+  - [Instrucciones de instalación](#instrucciones-de-instalación)
+  - [O puedes abrir manualmente el archivo `index.html` en tu navegador.](#o-puedes-abrir-manualmente-el-archivo-indexhtml-en-tu-navegador)
 
 ## Descripción del proyecto
-Este proyecto forma parte del Challenge Amigo Secreto de Alura Latam, con el objetivo de fortalecer habilidades en lógica de programación mediante la implementación de un sorteo aleatorio de un amigo secreto.
+Este proyecto forma parte del **Challenge Amigo Secreto** de **Alura Latam**, con el objetivo de fortalecer habilidades en lógica de programación mediante la implementación de un sorteo aleatorio de un amigo secreto.
 
 ![Página principal](https://gcdnb.pbrd.co/images/9F58yPCqDOQa.png?o=1)
 <h4 align="center">
@@ -27,12 +29,25 @@ Este proyecto forma parte del Challenge Amigo Secreto de Alura Latam, con el obj
 ## Acceso al proyecto
 
 ## 🛠️ Tecnologías utilizadas
-🔹 HTML - Estructura de la interfaz.
-🔹 CSS - Diseño y estilos.
-🔹 JavaScript (JS) - Lógica del sorteo y manipulación del DOM.
+🔹 **HTML** - Estructura de la interfaz.
+🔹 **CSS** - Diseño y estilos.
+🔹 **JavaScript (JS)** - Lógica del sorteo y manipulación del DOM.
 
 ## 🚀 Objetivo del challenge
 Desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
+## Instrucciones de instalación
+
+1. Clona el repositorio
+```bash
+git clone https://github.com/J0nvthvn/challenge-amigo-secreto.git
+```
+2. Accede al directorio proyecto:
+```bash
+cd challenge-amigo-secreto
+```
+3. Abre el proyecto en un navegador
+   Si tienes **Live Server** en VS Code, simplemente haz click en **"Go Live"**.
+   O puedes abrir manualmente el archivo `index.html` en tu navegador.
 ---
 ⌨️ con ❤️ por [J0nvthvn](https://github.com/J0nvthvn) 😊
