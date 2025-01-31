@@ -16,7 +16,7 @@ Este proyecto forma parte del **Challenge Amigo Secreto** de **Alura Latam**, co
 
 ![Página principal](https://gcdnb.pbrd.co/images/9F58yPCqDOQa.png?o=1)
 <h4 align="center">
-🚧 Proyecto en construcción 🚧
+🚧 Proyecto en desarrollo 🚧
 </h4>
 
 ## 🔗 Acceso al proyecto
