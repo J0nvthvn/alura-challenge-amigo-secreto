@@ -46,8 +46,8 @@ git clone https://github.com/J0nvthvn/challenge-amigo-secreto.git
 cd challenge-amigo-secreto
 ```
 3. Abre el proyecto en un navegador:
-Si tienes **Live Server** en VS Code, simplemente haz click en **"Go Live"**.
-O puedes abrir manualmente el archivo `index.html` en tu navegador.
+    Si tienes **Live Server** en VS Code, simplemente haz click en **"Go Live"**.
+    O puedes abrir manualmente el archivo `index.html` en tu navegador.
 
 ---
 
