@@ -10,7 +10,6 @@
   - [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
   - [🚀 Objetivo del challenge](#-objetivo-del-challenge)
   - [Instrucciones de instalación](#instrucciones-de-instalación)
-  - [O puedes abrir manualmente el archivo `index.html` en tu navegador.](#o-puedes-abrir-manualmente-el-archivo-indexhtml-en-tu-navegador)
 
 ## Descripción del proyecto
 Este proyecto forma parte del **Challenge Amigo Secreto** de **Alura Latam**, con el objetivo de fortalecer habilidades en lógica de programación mediante la implementación de un sorteo aleatorio de un amigo secreto.
@@ -46,8 +45,10 @@ git clone https://github.com/J0nvthvn/challenge-amigo-secreto.git
 ```bash
 cd challenge-amigo-secreto
 ```
-3. Abre el proyecto en un navegador
-   Si tienes **Live Server** en VS Code, simplemente haz click en **"Go Live"**.
-   O puedes abrir manualmente el archivo `index.html` en tu navegador.
+3. Abre el proyecto en un navegador:
+Si tienes **Live Server** en VS Code, simplemente haz click en **"Go Live"**.
+O puedes abrir manualmente el archivo `index.html` en tu navegador.
+
 ---
+
 ⌨️ con ❤️ por [J0nvthvn](https://github.com/J0nvthvn) 😊
