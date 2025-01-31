@@ -37,6 +37,8 @@ Este proyecto forma parte del **Challenge Amigo Secreto** de **Alura Latam**, co
 Desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 ## 🛠️ Instrucciones de instalación
+
+_Estas instrucciones te guiarán para obtener una copia local del proyecto para desarrollo y pruebas._
 1. Clona el repositorio:
     ```sh
     git clone https://github.com/J0nvthvn/challenge-amigo-secreto_esp-main.git
