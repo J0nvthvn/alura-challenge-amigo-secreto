@@ -1,1 +1,3 @@
-# challenge-amigo-secreto
+# Challenge Amigo Secreto | Alura Latam
+
+Estado del proyecto: En desarrollo.
