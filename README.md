@@ -20,7 +20,7 @@ Este proyecto forma parte del **Challenge Amigo Secreto** de **Alura Latam**, co
 </h4>
 
 ## 🔗 Acceso al proyecto
-[Visita la página del proyecto](https://J0nvthvn.github.io/challenge-amigo-secreto_esp-main)
+[Visita la página del proyecto](https://j0nvthvn.github.io/challenge-amigo-secreto/)
 
 ## 📌 Funcionalidades del proyecto
 - `✅ Agregar nombres`: : Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
